@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "How FAIR is the metadata of geoscience datasets in German repositories? A reproducible pilot assessment"
+type: software
+version: 0.1.0
+date-released: 2026-11-16
+authors:
+  - family-names: Jamalzehi
+    given-names: Hamed
+    affiliation: "Technische Universität Berlin"
+license: MIT
+keywords: [FAIR, research data management, geosciences, DataCite, metadata, NFDI4Earth]

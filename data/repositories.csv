@@ -1,0 +1,7 @@
+client_id,repository_name,re3data_doi,repository_url,datasets_at_datacite,sampled
+pangaea.repository,PANGAEA,10.17616/R3XS37,https://www.pangaea.de/,428292,50
+tib.gfz,GFZ Data Services,10.17616/R3VQ0S,https://dataservices.gfz.de/portal/,8409,50
+dkrz.wdcc,World Data Center for Climate,10.17616/R3989R,https://www.wdc-climate.de,3920,50
+tib.bonares,BonaRes  Leibniz-Zentrum für Agrarlandschaftsforschung (ZALF) e.V. Datenzentrum Agrarlandschaft,,,324,50
+arfm.ufzdrp,UFZ Datenrechercheportal,10.17616/R31NJN1M,https://www.ufz.de/drp/de/,276,50
+tib.bgr,Bundesanstalt für Geowissenschaften und Rohstoffe,,,127,50

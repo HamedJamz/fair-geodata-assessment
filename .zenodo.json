@@ -1,0 +1,8 @@
+{
+  "title": "How FAIR is the metadata of geoscience datasets in German repositories? A reproducible pilot assessment",
+  "upload_type": "software",
+  "creators": [{"name": "Jamalzehi, Hamed", "affiliation": "Technische Universität Berlin"}],
+  "description": "Reproducible Python workflow, assessment table and figures of a pilot study that checks DataCite metadata of dataset samples from six German Earth-system-science repositories against 18 metadata-level FAIR indicators.",
+  "license": "MIT",
+  "keywords": ["FAIR", "research data management", "geosciences", "DataCite", "metadata quality", "NFDI4Earth"]
+}

@@ -1,0 +1,19 @@
+indicator,principle,label,PANGAEA,GFZ Data Services,WDCC (DKRZ),BonaRes (ZALF),UFZ Data Portal,BGR,all_pooled
+F1_doi_findable,F,DOI registered & findable,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+F2_description,F,Description >= 100 chars,38.0,30.0,100.0,80.0,100.0,40.0,65.0
+F2_keywords,F,Keywords,100.0,28.0,100.0,22.0,100.0,34.0,64.0
+F2_creator_pid,F,Creator PID (ORCID),46.0,24.0,44.0,2.0,0.0,94.0,35.0
+F2_spatial_coverage,F,Spatial coverage,100.0,26.0,66.0,96.0,88.0,34.0,68.0
+F2_temporal_coverage,F,Temporal coverage,34.0,16.0,2.0,0.0,0.0,0.0,9.0
+A1_landing_page,A,Landing page URL (https),100.0,100.0,6.0,100.0,100.0,100.0,84.0
+A1_size_declared,A,Size declared,100.0,0.0,100.0,0.0,100.0,0.0,50.0
+I1_format_declared,I,File format declared,98.0,74.0,100.0,86.0,100.0,42.0,83.0
+I2_controlled_vocab,I,Keywords from vocabulary,100.0,28.0,20.0,12.0,0.0,24.0,31.0
+I3_related_ids,I,Linked to other objects,68.0,30.0,82.0,56.0,0.0,4.0,40.0
+I3_affiliation_pid,I,Affiliation PID (ROR),4.0,6.0,10.0,12.0,100.0,80.0,35.0
+R1_license,R,License stated,100.0,30.0,70.0,98.0,100.0,34.0,72.0
+R1_license_machine,R,License machine-readable,100.0,30.0,28.0,98.0,96.0,0.0,59.0
+R1_license_open,R,Open license (CC0/BY/BY-SA),76.0,26.0,28.0,98.0,12.0,0.0,40.0
+R1_provenance,R,Provenance information,28.0,26.0,16.0,6.0,0.0,2.0,13.0
+R1_funding,R,Funding reference,10.0,16.0,6.0,86.0,0.0,0.0,20.0
+R1_schema_v4,R,DataCite schema 4.x,100.0,100.0,30.0,92.0,70.0,100.0,82.0

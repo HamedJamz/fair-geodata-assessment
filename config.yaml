@@ -1,0 +1,23 @@
+# Study design — edit here, not in the code.
+sample_size_per_repository: 50      # random DataCite sample per repository
+resource_type: dataset
+datacite_api: https://api.datacite.org
+# German Earth-system-science repositories (DataCite client IDs verified 2026-11-16;
+# re3data IDs are read from the DataCite client record at harvest time)
+repositories:
+  - client_id: pangaea.repository
+    label: PANGAEA
+  - client_id: tib.gfz
+    label: GFZ Data Services
+  - client_id: dkrz.wdcc
+    label: WDCC (DKRZ)
+  - client_id: tib.bonares
+    label: BonaRes (ZALF)
+  - client_id: arfm.ufzdrp
+    label: UFZ Data Portal
+  - client_id: tib.bgr
+    label: BGR
+fuji:
+  url: http://localhost:1071/fuji/api/v1/evaluate
+  username: marvel                  # F-UJI default credentials (local container)
+  password: wonderwoman
