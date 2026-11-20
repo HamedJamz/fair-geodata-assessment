@@ -10,3 +10,4 @@ authors:
     affiliation: "Technische Universität Berlin"
 license: MIT
 keywords: [FAIR, research data management, geosciences, DataCite, metadata, NFDI4Earth]
+repository-code: "https://github.com/HamedJamz/fair-geodata-assessment"
